@@ -1,0 +1,33 @@
+primer_set,misclassification,count,sample%,no_of_tg
+Niu-set,slight chance,520961.0,0.783017322361252,4
+Niu-set,susceptible,3231.0,0.004856273249915455,4
+Won-set,slight chance,9330.0,0.01402322173373915,9
+Won-set,susceptible,0.0,0.0,9
+Davi-set,susceptible,0.0,0.0,9
+Davi-set,slight chance,29868.0,0.044892345846015105,9
+Corman-set,susceptible,1529.0,0.002298124976515237,3
+Corman-set,slight chance,366653.0,0.5510885657385488,3
+Tombuloglu-set,slight chance,0.0,0.0,2
+Tombuloglu-set,susceptible,2213.0,0.0033261939653552773,2
+Sarkar-set,slight chance,17459.0,0.026241310637658288,4
+Sarkar-set,susceptible,21.0,3.156352158719423e-05,4
+Young-set,susceptible,1138.0,0.00171044226505843,3
+Young-set,slight chance,127142.0,0.19109758388757375,3
+Lu-set,slight chance,18847.0,0.028327509112088076,3
+Lu-set,susceptible,151.0,0.00022695675046030135,3
+Chan-set,susceptible,73.0,0.00010972081313643708,3
+Chan-set,slight chance,14930.0,0.02244016082365761,3
+IP-set,susceptible,3270.0,0.004914891218577387,2
+IP-set,slight chance,0.0,0.0,2
+Chu-set,slight chance,0.0,0.0,2
+Chu-set,susceptible,3375.0,0.005072708826513358,2
+Mollaei-set,susceptible,0.0,0.0,5
+Mollaei-set,slight chance,4471.0,0.0067200240483974,5
+DMSC-set,susceptible,1209.0,0.0018171570285198963,1
+DMSC-set,slight chance,0.0,0.0,1
+Shirato-set,susceptible,2987.0,0.004489535189569007,1
+Shirato-set,slight chance,0.0,0.0,1
+Yip-set,slight chance,0.0,0.0,1
+Yip-set,susceptible,530.0,0.0007966031638672829,1
+Huang-set,slight chance,0.0,0.0,1
+Huang-set,susceptible,839.0,0.0012610378386502838,1
